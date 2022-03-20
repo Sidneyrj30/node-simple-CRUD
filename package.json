@@ -1,0 +1,14 @@
+{
+  "name": "crud-node",
+  "version": "1.0.0",
+  "description": "Simple CRUD project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "Sidney Júnior",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}

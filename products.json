@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Pencil",
+        "price": 7.89,
+        "id": "d68ea08d-d215-4dde-8fb3-ee1caa129bcb"
+    },
+    {
+        "name": "Notebook",
+        "price": 24,
+        "id": "7c95f0e8-a97c-4374-bb3a-be046ab1b7b5"
+    },
+    {
+        "name": "Box",
+        "price": 12,
+        "id": "7a423dc7-d042-4de5-9beb-17f2674d1f55"
+    }
+]

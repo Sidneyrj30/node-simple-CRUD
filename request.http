@@ -1,0 +1,25 @@
+POST http://localhost:3000/products
+content-type: application/json
+
+{
+    "name":"anything",
+    "price": 33
+}
+
+###
+GET http://localhost:3000/products
+
+###
+GET http://localhost:3000/products/7c95f0e8-a97c-4374-bb3a-be046ab1b7b5
+
+###
+PUT http://localhost:3000/products/7a423dc7-d042-4de5-9beb-17f2674d1f55
+content-type: application/json
+
+{
+    "name":"Box",
+    "price": 12
+}
+
+###
+DELETE  http://localhost:3000/products/ac81ba08-2efb-49cb-94e0-a653779489da
